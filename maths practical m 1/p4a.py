@@ -1,4 +1,4 @@
-#6 , 8
+#6 , 8 = 14,[6,13]
 import math
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
