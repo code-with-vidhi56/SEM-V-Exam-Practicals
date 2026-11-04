@@ -1,4 +1,4 @@
-# 5 
+# 5
 n = int(input("Enter the value of N: "))
 
 print("Prime numbers are:")

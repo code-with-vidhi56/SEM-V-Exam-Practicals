@@ -1,3 +1,4 @@
+#3,4
 import matplotlib.pyplot as plt
 
  #Enter real and  imaginary part

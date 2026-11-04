@@ -1,4 +1,4 @@
-#20, 25
+#20 , 25 = 1,2, 4 ,5 ,10,20
 a = int(input("Enter the first integer: "))
 b = int(input("Enter the second integer: "))
 
