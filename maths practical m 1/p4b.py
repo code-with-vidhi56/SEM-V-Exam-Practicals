@@ -1,3 +1,4 @@
+#5, 7 ,12, = 1,5,11
 import math
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
